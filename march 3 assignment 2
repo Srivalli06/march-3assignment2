@@ -1,0 +1,7 @@
+cou=("mpcs","mecs","bsc")
+course=("bsc","ds","c")
+print(cou,course)
+
+
+out put:
+('mpcs', 'mecs', 'bsc') ('bsc', 'ds', 'c')
